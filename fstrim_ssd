@@ -1,0 +1,3 @@
+# run this with the source command
+echo bin/ansible -v -i hostfarm ssdhosts -a "fstrim -av" -b
+bin/ansible -v -i hostfarm ssdhosts -a "fstrim -av" -b

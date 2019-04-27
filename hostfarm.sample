@@ -1,0 +1,12 @@
+[upgrades]
+host1
+host2
+host3
+host4
+
+[backup]
+host3
+
+[ssdhosts]
+host1
+host3

@@ -1,0 +1,4 @@
+#!/bin/sh
+# run with 'source farm_upgrade'
+echo "bin/ansible-playbook -v -i hostfarm farm_upgrade.yaml "
+bin/ansible-playbook -v -i hostfarm farm_upgrade.yaml 
